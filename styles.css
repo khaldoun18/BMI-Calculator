@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+h2{
+    text-align: center;
+}
+.my-form{
+    padding-top: 8rem;
+}
+#man{
+    padding-left: 3rem;
+    padding-top: 5rem;
+}
